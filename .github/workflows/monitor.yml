@@ -4,6 +4,15 @@ on:
   schedule:
     - cron: "*/15 * * * *"
   workflow_dispatch:
+    inputs:
+      send_all_now:
+        description: "Send immediate alert for all currently matching programs"
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
 
 jobs:
   check-programs:
@@ -34,7 +43,12 @@ jobs:
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
           CHECK_TIMEOUT_SECONDS: "90"
           USE_PLAYWRIGHT_FALLBACK: "1"
-        run: python monitor.py
+        run: |
+          if [[ "${{ inputs.send_all_now }}" == "true" ]]; then
+            python monitor.py --send-all-now
+          else
+            python monitor.py
+          fi
 
       - name: Commit state if changed
         run: |
