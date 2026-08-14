@@ -1,0 +1,569 @@
+{
+  "0d88c416-2872-4c86-8e00-2672a3e07b6d": {
+    "registration_status": "Open",
+    "snapshot": {
+      "days_of_week": [
+        "Saturday"
+      ],
+      "end_dt": "2026-12-05 08:30:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/0d88c416-2872-4c86-8e00-2672a3e07b6d",
+      "price": "$88.0",
+      "program_id": "0d88c416-2872-4c86-8e00-2672a3e07b6d",
+      "program_type": "Adult",
+      "registration_status": "Open",
+      "skill_level": "All",
+      "spots_available": 6,
+      "start_dt": "2026-10-31 07:30:00-05:00",
+      "title": "Adult Cardio Tennis at Hamlin Park",
+      "venue": "Hamlin Park"
+    },
+    "spots_available": 6,
+    "updated_at": "2026-08-14T11:19:13.137956+00:00"
+  },
+  "18ea83ad-46d8-4a46-ba31-6ddc2d0eb230": {
+    "registration_status": "Full",
+    "snapshot": {
+      "days_of_week": [
+        "Wednesday"
+      ],
+      "end_dt": "2026-09-09 19:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/18ea83ad-46d8-4a46-ba31-6ddc2d0eb230",
+      "price": "$64.0",
+      "program_id": "18ea83ad-46d8-4a46-ba31-6ddc2d0eb230",
+      "program_type": "Adult",
+      "registration_status": "Full",
+      "skill_level": "All",
+      "spots_available": 0,
+      "start_dt": "2026-08-19 18:00:00-05:00",
+      "title": "Adult Cardio Tennis at Smith Park",
+      "venue": "Smith Park"
+    },
+    "spots_available": 0,
+    "updated_at": "2026-08-14T11:19:13.137547+00:00"
+  },
+  "1e0f43a3-4557-4bcd-aa75-dba2408f8a70": {
+    "registration_status": "Open",
+    "snapshot": {
+      "days_of_week": [
+        "Tuesday"
+      ],
+      "end_dt": "2026-10-20 19:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/1e0f43a3-4557-4bcd-aa75-dba2408f8a70",
+      "price": "$88.0",
+      "program_id": "1e0f43a3-4557-4bcd-aa75-dba2408f8a70",
+      "program_type": "Adult",
+      "registration_status": "Open",
+      "skill_level": "Beginner",
+      "spots_available": 6,
+      "start_dt": "2026-09-15 18:00:00-05:00",
+      "title": "Adult Tennis 101 at Humboldt Park",
+      "venue": "Humboldt Park"
+    },
+    "spots_available": 6,
+    "updated_at": "2026-08-14T11:19:13.137677+00:00"
+  },
+  "26084efd-b507-4cbe-990b-89e7ae49b2a4": {
+    "registration_status": "Full",
+    "snapshot": {
+      "days_of_week": [
+        "Tuesday"
+      ],
+      "end_dt": "2026-10-20 19:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/26084efd-b507-4cbe-990b-89e7ae49b2a4",
+      "price": "$82.0",
+      "program_id": "26084efd-b507-4cbe-990b-89e7ae49b2a4",
+      "program_type": "Adult",
+      "registration_status": "Full",
+      "skill_level": "All",
+      "spots_available": 0,
+      "start_dt": "2026-09-15 18:00:00-05:00",
+      "title": "Adult Cardio Tennis at Humboldt Park",
+      "venue": "Humboldt Park"
+    },
+    "spots_available": 0,
+    "updated_at": "2026-08-14T11:19:13.137656+00:00"
+  },
+  "3f4c81c2-90de-42d8-85d3-bee8c00c45db": {
+    "registration_status": "Full",
+    "snapshot": {
+      "days_of_week": [
+        "Wednesday"
+      ],
+      "end_dt": "2026-10-21 19:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/3f4c81c2-90de-42d8-85d3-bee8c00c45db",
+      "price": "$82.0",
+      "program_id": "3f4c81c2-90de-42d8-85d3-bee8c00c45db",
+      "program_type": "Adult",
+      "registration_status": "Full",
+      "skill_level": "All",
+      "spots_available": 0,
+      "start_dt": "2026-09-16 18:00:00-05:00",
+      "title": "Adult Cardio Tennis at Humboldt Park",
+      "venue": "Humboldt Park"
+    },
+    "spots_available": 0,
+    "updated_at": "2026-08-14T11:19:13.137784+00:00"
+  },
+  "452b1d76-085d-44f5-a4b4-1b014e874293": {
+    "registration_status": "Full",
+    "snapshot": {
+      "days_of_week": [
+        "Monday"
+      ],
+      "end_dt": "2026-10-19 19:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/452b1d76-085d-44f5-a4b4-1b014e874293",
+      "price": "$82.0",
+      "program_id": "452b1d76-085d-44f5-a4b4-1b014e874293",
+      "program_type": "Adult",
+      "registration_status": "Full",
+      "skill_level": "All",
+      "spots_available": -1,
+      "start_dt": "2026-09-14 18:00:00-05:00",
+      "title": "Adult Cardio Tennis at Welles Park",
+      "venue": "Welles Park"
+    },
+    "spots_available": -1,
+    "updated_at": "2026-08-14T11:19:13.137591+00:00"
+  },
+  "4e4bc9a7-a880-41b4-ab85-1d5069ea37d1": {
+    "registration_status": "Full",
+    "snapshot": {
+      "days_of_week": [
+        "Tuesday"
+      ],
+      "end_dt": "2026-09-08 19:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/4e4bc9a7-a880-41b4-ab85-1d5069ea37d1",
+      "price": "$64.0",
+      "program_id": "4e4bc9a7-a880-41b4-ab85-1d5069ea37d1",
+      "program_type": "Adult",
+      "registration_status": "Full",
+      "skill_level": "All",
+      "spots_available": -2,
+      "start_dt": "2026-08-18 18:00:00-05:00",
+      "title": "Adult Cardio Tennis at Welles Park",
+      "venue": "Welles Park"
+    },
+    "spots_available": -2,
+    "updated_at": "2026-08-14T11:19:13.137503+00:00"
+  },
+  "62fa3f6d-55d9-4e78-b191-50f5cc730ea2": {
+    "registration_status": "Open",
+    "snapshot": {
+      "days_of_week": [
+        "Tuesday"
+      ],
+      "end_dt": "2026-12-01 19:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/62fa3f6d-55d9-4e78-b191-50f5cc730ea2",
+      "price": "$82.0",
+      "program_id": "62fa3f6d-55d9-4e78-b191-50f5cc730ea2",
+      "program_type": "Adult",
+      "registration_status": "Open",
+      "skill_level": "All",
+      "spots_available": 7,
+      "start_dt": "2026-10-27 18:00:00-05:00",
+      "title": "Adult Cardio Tennis at Welles Park",
+      "venue": "Welles Park"
+    },
+    "spots_available": 7,
+    "updated_at": "2026-08-14T11:19:13.137891+00:00"
+  },
+  "66dbf571-70c6-4081-be9b-252d592c843e": {
+    "registration_status": "Full",
+    "snapshot": {
+      "days_of_week": [
+        "Saturday"
+      ],
+      "end_dt": "2026-09-12 08:30:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/66dbf571-70c6-4081-be9b-252d592c843e",
+      "price": "$80.0",
+      "program_id": "66dbf571-70c6-4081-be9b-252d592c843e",
+      "program_type": "Adult",
+      "registration_status": "Full",
+      "skill_level": "All",
+      "spots_available": 0,
+      "start_dt": "2026-08-15 07:30:00-05:00",
+      "title": "Adult Cardio Tennis at Hamlin Park",
+      "venue": "Hamlin Park"
+    },
+    "spots_available": 0,
+    "updated_at": "2026-08-14T11:19:13.137373+00:00"
+  },
+  "6bbb3630-8029-4ac6-a292-c6ad0d8d246b": {
+    "registration_status": "Open",
+    "snapshot": {
+      "days_of_week": [
+        "Tuesday"
+      ],
+      "end_dt": "2026-12-01 19:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/6bbb3630-8029-4ac6-a292-c6ad0d8d246b",
+      "price": "$82.0",
+      "program_id": "6bbb3630-8029-4ac6-a292-c6ad0d8d246b",
+      "program_type": "Adult",
+      "registration_status": "Open",
+      "skill_level": "All",
+      "spots_available": 7,
+      "start_dt": "2026-10-27 18:00:00-05:00",
+      "title": "Adult Cardio Tennis at Humboldt Park",
+      "venue": "Humboldt Park"
+    },
+    "spots_available": 7,
+    "updated_at": "2026-08-14T11:19:13.137870+00:00"
+  },
+  "866a96cb-a382-4f56-bfa6-ba7df77116c4": {
+    "registration_status": "Full",
+    "snapshot": {
+      "days_of_week": [
+        "Tuesday"
+      ],
+      "end_dt": "2026-10-20 20:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/866a96cb-a382-4f56-bfa6-ba7df77116c4",
+      "price": "$82.0",
+      "program_id": "866a96cb-a382-4f56-bfa6-ba7df77116c4",
+      "program_type": "Adult",
+      "registration_status": "Full",
+      "skill_level": "All",
+      "spots_available": 0,
+      "start_dt": "2026-09-15 19:00:00-05:00",
+      "title": "Adult Cardio Tennis at Welles Park",
+      "venue": "Welles Park"
+    },
+    "spots_available": 0,
+    "updated_at": "2026-08-14T11:19:13.137720+00:00"
+  },
+  "951c195d-4512-4789-84b8-c953147a717d": {
+    "registration_status": "Full",
+    "snapshot": {
+      "days_of_week": [
+        "Monday"
+      ],
+      "end_dt": "2026-09-07 19:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/951c195d-4512-4789-84b8-c953147a717d",
+      "price": "$64.0",
+      "program_id": "951c195d-4512-4789-84b8-c953147a717d",
+      "program_type": "Adult",
+      "registration_status": "Full",
+      "skill_level": "All",
+      "spots_available": 0,
+      "start_dt": "2026-08-17 18:00:00-05:00",
+      "title": "Adult Cardio Tennis at Humboldt Park",
+      "venue": "Humboldt Park"
+    },
+    "spots_available": 0,
+    "updated_at": "2026-08-14T11:19:13.137410+00:00"
+  },
+  "9ea2ff38-e68d-4cf6-a6c7-5ee77623a763": {
+    "registration_status": "Open",
+    "snapshot": {
+      "days_of_week": [
+        "Wednesday"
+      ],
+      "end_dt": "2026-10-21 18:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/9ea2ff38-e68d-4cf6-a6c7-5ee77623a763",
+      "price": "$88.0",
+      "program_id": "9ea2ff38-e68d-4cf6-a6c7-5ee77623a763",
+      "program_type": "Adult",
+      "registration_status": "Open",
+      "skill_level": "Beginner",
+      "spots_available": 8,
+      "start_dt": "2026-09-16 17:00:00-05:00",
+      "title": "Adult Tennis 101 at Humboldt Park",
+      "venue": "Humboldt Park"
+    },
+    "spots_available": 8,
+    "updated_at": "2026-08-14T11:19:13.137741+00:00"
+  },
+  "9f779472-943d-4592-b4ef-dd4309ca46e9": {
+    "registration_status": "Full",
+    "snapshot": {
+      "days_of_week": [
+        "Tuesday"
+      ],
+      "end_dt": "2026-09-08 19:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/9f779472-943d-4592-b4ef-dd4309ca46e9",
+      "price": "$64.0",
+      "program_id": "9f779472-943d-4592-b4ef-dd4309ca46e9",
+      "program_type": "Adult",
+      "registration_status": "Full",
+      "skill_level": "All",
+      "spots_available": 0,
+      "start_dt": "2026-08-18 18:00:00-05:00",
+      "title": "Adult Cardio Tennis at Humboldt Park",
+      "venue": "Humboldt Park"
+    },
+    "spots_available": 0,
+    "updated_at": "2026-08-14T11:19:13.137481+00:00"
+  },
+  "a23a91a1-3431-4b27-998f-d63877da65c9": {
+    "registration_status": "Full",
+    "snapshot": {
+      "days_of_week": [
+        "Saturday"
+      ],
+      "end_dt": "2026-10-24 08:30:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/a23a91a1-3431-4b27-998f-d63877da65c9",
+      "price": "$88.0",
+      "program_id": "a23a91a1-3431-4b27-998f-d63877da65c9",
+      "program_type": "Adult",
+      "registration_status": "Full",
+      "skill_level": "All",
+      "spots_available": 0,
+      "start_dt": "2026-09-19 07:30:00-05:00",
+      "title": "Adult Cardio Tennis at Hamlin Park",
+      "venue": "Hamlin Park"
+    },
+    "spots_available": 0,
+    "updated_at": "2026-08-14T11:19:13.137805+00:00"
+  },
+  "a40ee0a2-fd54-408d-846f-33365a9c8dba": {
+    "registration_status": "Full",
+    "snapshot": {
+      "days_of_week": [
+        "Monday"
+      ],
+      "end_dt": "2026-09-07 20:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/a40ee0a2-fd54-408d-846f-33365a9c8dba",
+      "price": "$64.0",
+      "program_id": "a40ee0a2-fd54-408d-846f-33365a9c8dba",
+      "program_type": "Adult",
+      "registration_status": "Full",
+      "skill_level": "All",
+      "spots_available": 0,
+      "start_dt": "2026-08-17 19:00:00-05:00",
+      "title": "Adult Cardio Tennis at Welles Park",
+      "venue": "Welles Park"
+    },
+    "spots_available": 0,
+    "updated_at": "2026-08-14T11:19:13.137435+00:00"
+  },
+  "a789cd20-57f3-4893-ab71-e9c0701166c4": {
+    "registration_status": "Full",
+    "snapshot": {
+      "days_of_week": [
+        "Monday"
+      ],
+      "end_dt": "2026-10-19 20:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/a789cd20-57f3-4893-ab71-e9c0701166c4",
+      "price": "$82.0",
+      "program_id": "a789cd20-57f3-4893-ab71-e9c0701166c4",
+      "program_type": "Adult",
+      "registration_status": "Full",
+      "skill_level": "All",
+      "spots_available": 0,
+      "start_dt": "2026-09-14 19:00:00-05:00",
+      "title": "Adult Cardio Tennis at Welles Park",
+      "venue": "Welles Park"
+    },
+    "spots_available": 0,
+    "updated_at": "2026-08-14T11:19:13.137612+00:00"
+  },
+  "abcdde45-4eb9-4ae8-9bb4-c5d21796101c": {
+    "registration_status": "Full",
+    "snapshot": {
+      "days_of_week": [
+        "Tuesday"
+      ],
+      "end_dt": "2026-09-08 19:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/abcdde45-4eb9-4ae8-9bb4-c5d21796101c",
+      "price": "$68.0",
+      "program_id": "abcdde45-4eb9-4ae8-9bb4-c5d21796101c",
+      "program_type": "Adult",
+      "registration_status": "Full",
+      "skill_level": "Beginner",
+      "spots_available": 0,
+      "start_dt": "2026-08-18 18:00:00-05:00",
+      "title": "Adult Tennis 101 at Humboldt Park",
+      "venue": "Humboldt Park"
+    },
+    "spots_available": 0,
+    "updated_at": "2026-08-14T11:19:13.137458+00:00"
+  },
+  "ac88e4d7-c755-4958-99d4-f8e597123fc9": {
+    "registration_status": "Full",
+    "snapshot": {
+      "days_of_week": [
+        "Tuesday"
+      ],
+      "end_dt": "2026-10-20 19:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/ac88e4d7-c755-4958-99d4-f8e597123fc9",
+      "price": "$82.0",
+      "program_id": "ac88e4d7-c755-4958-99d4-f8e597123fc9",
+      "program_type": "Adult",
+      "registration_status": "Full",
+      "skill_level": "All",
+      "spots_available": 0,
+      "start_dt": "2026-09-15 18:00:00-05:00",
+      "title": "Adult Cardio Tennis at Smith Park",
+      "venue": "Smith Park"
+    },
+    "spots_available": 0,
+    "updated_at": "2026-08-14T11:19:13.137634+00:00"
+  },
+  "b6aa0864-414d-4dd9-83cf-1aa3a3596711": {
+    "registration_status": "Open",
+    "snapshot": {
+      "days_of_week": [
+        "Tuesday"
+      ],
+      "end_dt": "2026-12-01 20:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/b6aa0864-414d-4dd9-83cf-1aa3a3596711",
+      "price": "$82.0",
+      "program_id": "b6aa0864-414d-4dd9-83cf-1aa3a3596711",
+      "program_type": "Adult",
+      "registration_status": "Open",
+      "skill_level": "All",
+      "spots_available": 8,
+      "start_dt": "2026-10-27 19:00:00-05:00",
+      "title": "Adult Cardio Tennis at Welles Park",
+      "venue": "Welles Park"
+    },
+    "spots_available": 8,
+    "updated_at": "2026-08-14T11:19:13.137912+00:00"
+  },
+  "b9be0408-7338-4177-9a0d-3832143b2d47": {
+    "registration_status": "Full",
+    "snapshot": {
+      "days_of_week": [
+        "Tuesday"
+      ],
+      "end_dt": "2026-09-08 20:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/b9be0408-7338-4177-9a0d-3832143b2d47",
+      "price": "$64.0",
+      "program_id": "b9be0408-7338-4177-9a0d-3832143b2d47",
+      "program_type": "Adult",
+      "registration_status": "Full",
+      "skill_level": "All",
+      "spots_available": 0,
+      "start_dt": "2026-08-18 19:00:00-05:00",
+      "title": "Adult Cardio Tennis at Welles Park",
+      "venue": "Welles Park"
+    },
+    "spots_available": 0,
+    "updated_at": "2026-08-14T11:19:13.137525+00:00"
+  },
+  "c3da24b2-9a8b-4e47-9f04-378ff408ac68": {
+    "registration_status": "Full",
+    "snapshot": {
+      "days_of_week": [
+        "Wednesday"
+      ],
+      "end_dt": "2026-10-21 19:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/c3da24b2-9a8b-4e47-9f04-378ff408ac68",
+      "price": "$82.0",
+      "program_id": "c3da24b2-9a8b-4e47-9f04-378ff408ac68",
+      "program_type": "Adult",
+      "registration_status": "Full",
+      "skill_level": "All",
+      "spots_available": -1,
+      "start_dt": "2026-09-16 18:00:00-05:00",
+      "title": "Adult Cardio Tennis at Smith Park",
+      "venue": "Smith Park"
+    },
+    "spots_available": -1,
+    "updated_at": "2026-08-14T11:19:13.137762+00:00"
+  },
+  "c5ff246d-d436-4f7c-b0c5-b3f5aab1990b": {
+    "registration_status": "Full",
+    "snapshot": {
+      "days_of_week": [
+        "Tuesday"
+      ],
+      "end_dt": "2026-10-20 19:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/c5ff246d-d436-4f7c-b0c5-b3f5aab1990b",
+      "price": "$82.0",
+      "program_id": "c5ff246d-d436-4f7c-b0c5-b3f5aab1990b",
+      "program_type": "Adult",
+      "registration_status": "Full",
+      "skill_level": "All",
+      "spots_available": 0,
+      "start_dt": "2026-09-15 18:00:00-05:00",
+      "title": "Adult Cardio Tennis at Welles Park",
+      "venue": "Welles Park"
+    },
+    "spots_available": 0,
+    "updated_at": "2026-08-14T11:19:13.137698+00:00"
+  },
+  "d7b04db7-b073-4778-a903-0c1422cc1fcd": {
+    "registration_status": "Open",
+    "snapshot": {
+      "days_of_week": [
+        "Monday"
+      ],
+      "end_dt": "2026-11-30 19:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/d7b04db7-b073-4778-a903-0c1422cc1fcd",
+      "price": "$82.0",
+      "program_id": "d7b04db7-b073-4778-a903-0c1422cc1fcd",
+      "program_type": "Adult",
+      "registration_status": "Open",
+      "skill_level": "All",
+      "spots_available": 6,
+      "start_dt": "2026-10-26 18:00:00-05:00",
+      "title": "Adult Cardio Tennis at Welles Park",
+      "venue": "Welles Park"
+    },
+    "spots_available": 6,
+    "updated_at": "2026-08-14T11:19:13.137826+00:00"
+  },
+  "ddb4459f-5dd0-4908-be4b-9c71b456ef88": {
+    "registration_status": "Open",
+    "snapshot": {
+      "days_of_week": [
+        "Wednesday"
+      ],
+      "end_dt": "2026-12-02 19:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/ddb4459f-5dd0-4908-be4b-9c71b456ef88",
+      "price": "$82.0",
+      "program_id": "ddb4459f-5dd0-4908-be4b-9c71b456ef88",
+      "program_type": "Adult",
+      "registration_status": "Open",
+      "skill_level": "All",
+      "spots_available": 4,
+      "start_dt": "2026-10-28 18:00:00-05:00",
+      "title": "Adult Cardio Tennis at Humboldt Park",
+      "venue": "Humboldt Park"
+    },
+    "spots_available": 4,
+    "updated_at": "2026-08-14T11:19:13.137934+00:00"
+  },
+  "e077cc47-e479-4ef2-857e-ca97f06d7352": {
+    "registration_status": "Open",
+    "snapshot": {
+      "days_of_week": [
+        "Monday"
+      ],
+      "end_dt": "2026-11-30 20:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/e077cc47-e479-4ef2-857e-ca97f06d7352",
+      "price": "$82.0",
+      "program_id": "e077cc47-e479-4ef2-857e-ca97f06d7352",
+      "program_type": "Adult",
+      "registration_status": "Open",
+      "skill_level": "All",
+      "spots_available": 8,
+      "start_dt": "2026-10-26 19:00:00-05:00",
+      "title": "Adult Cardio Tennis at Welles Park",
+      "venue": "Welles Park"
+    },
+    "spots_available": 8,
+    "updated_at": "2026-08-14T11:19:13.137848+00:00"
+  },
+  "f2d395a1-2173-432c-af39-efe21eff5c1d": {
+    "registration_status": "Full",
+    "snapshot": {
+      "days_of_week": [
+        "Wednesday"
+      ],
+      "end_dt": "2026-09-09 19:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/f2d395a1-2173-432c-af39-efe21eff5c1d",
+      "price": "$64.0",
+      "program_id": "f2d395a1-2173-432c-af39-efe21eff5c1d",
+      "program_type": "Adult",
+      "registration_status": "Full",
+      "skill_level": "All",
+      "spots_available": -1,
+      "start_dt": "2026-08-19 18:00:00-05:00",
+      "title": "Adult Cardio Tennis at Humboldt Park",
+      "venue": "Humboldt Park"
+    },
+    "spots_available": -1,
+    "updated_at": "2026-08-14T11:19:13.137569+00:00"
+  }
+}
