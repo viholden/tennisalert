@@ -18,7 +18,7 @@
       "venue": "Hamlin Park"
     },
     "spots_available": 6,
-    "updated_at": "2026-08-17T23:34:36.950376+00:00"
+    "updated_at": "2026-08-17T23:56:43.606922+00:00"
   },
   "18ea83ad-46d8-4a46-ba31-6ddc2d0eb230": {
     "registration_status": "Full",
@@ -39,7 +39,7 @@
       "venue": "Smith Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-08-17T23:34:36.949226+00:00"
+    "updated_at": "2026-08-17T23:56:43.606238+00:00"
   },
   "1e0f43a3-4557-4bcd-aa75-dba2408f8a70": {
     "registration_status": "Open",
@@ -60,7 +60,7 @@
       "venue": "Humboldt Park"
     },
     "spots_available": 6,
-    "updated_at": "2026-08-17T23:34:36.949624+00:00"
+    "updated_at": "2026-08-17T23:56:43.606495+00:00"
   },
   "26084efd-b507-4cbe-990b-89e7ae49b2a4": {
     "registration_status": "Full",
@@ -81,7 +81,7 @@
       "venue": "Humboldt Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-08-17T23:34:36.949563+00:00"
+    "updated_at": "2026-08-17T23:56:43.606460+00:00"
   },
   "3f4c81c2-90de-42d8-85d3-bee8c00c45db": {
     "registration_status": "Full",
@@ -102,7 +102,7 @@
       "venue": "Humboldt Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-08-17T23:34:36.949936+00:00"
+    "updated_at": "2026-08-17T23:56:43.606651+00:00"
   },
   "452b1d76-085d-44f5-a4b4-1b014e874293": {
     "registration_status": "Full",
@@ -123,7 +123,7 @@
       "venue": "Welles Park"
     },
     "spots_available": -1,
-    "updated_at": "2026-08-17T23:34:36.949394+00:00"
+    "updated_at": "2026-08-17T23:56:43.606366+00:00"
   },
   "4e4bc9a7-a880-41b4-ab85-1d5069ea37d1": {
     "registration_status": "Full",
@@ -144,7 +144,7 @@
       "venue": "Welles Park"
     },
     "spots_available": -2,
-    "updated_at": "2026-08-17T23:34:36.949114+00:00"
+    "updated_at": "2026-08-17T23:56:43.606173+00:00"
   },
   "62df9e12-e95a-402f-8150-69277ca6762c": {
     "registration_status": "Full",
@@ -165,7 +165,7 @@
       "venue": "Hamlin Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-08-17T23:34:36.949338+00:00"
+    "updated_at": "2026-08-17T23:56:43.606302+00:00"
   },
   "62fa3f6d-55d9-4e78-b191-50f5cc730ea2": {
     "registration_status": "Open",
@@ -186,7 +186,7 @@
       "venue": "Welles Park"
     },
     "spots_available": 7,
-    "updated_at": "2026-08-17T23:34:36.950211+00:00"
+    "updated_at": "2026-08-17T23:56:43.606824+00:00"
   },
   "6bbb3630-8029-4ac6-a292-c6ad0d8d246b": {
     "registration_status": "Open",
@@ -207,7 +207,7 @@
       "venue": "Humboldt Park"
     },
     "spots_available": 7,
-    "updated_at": "2026-08-17T23:34:36.950156+00:00"
+    "updated_at": "2026-08-17T23:56:43.606792+00:00"
   },
   "866a96cb-a382-4f56-bfa6-ba7df77116c4": {
     "registration_status": "Full",
@@ -228,28 +228,7 @@
       "venue": "Welles Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-08-17T23:34:36.949734+00:00"
-  },
-  "951c195d-4512-4789-84b8-c953147a717d": {
-    "registration_status": "Full",
-    "snapshot": {
-      "days_of_week": [
-        "Monday"
-      ],
-      "end_dt": "2026-09-07 19:00:00-05:00",
-      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/951c195d-4512-4789-84b8-c953147a717d",
-      "price": "$64.0",
-      "program_id": "951c195d-4512-4789-84b8-c953147a717d",
-      "program_type": "Adult",
-      "registration_status": "Full",
-      "skill_level": "All",
-      "spots_available": 0,
-      "start_dt": "2026-08-17 18:00:00-05:00",
-      "title": "Adult Cardio Tennis at Humboldt Park",
-      "venue": "Humboldt Park"
-    },
-    "spots_available": 0,
-    "updated_at": "2026-08-17T23:34:36.948855+00:00"
+    "updated_at": "2026-08-17T23:56:43.606558+00:00"
   },
   "9ea2ff38-e68d-4cf6-a6c7-5ee77623a763": {
     "registration_status": "Open",
@@ -270,7 +249,7 @@
       "venue": "Humboldt Park"
     },
     "spots_available": 7,
-    "updated_at": "2026-08-17T23:34:36.949821+00:00"
+    "updated_at": "2026-08-17T23:56:43.606589+00:00"
   },
   "9f779472-943d-4592-b4ef-dd4309ca46e9": {
     "registration_status": "Full",
@@ -291,7 +270,7 @@
       "venue": "Humboldt Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-08-17T23:34:36.949055+00:00"
+    "updated_at": "2026-08-17T23:56:43.606139+00:00"
   },
   "a23a91a1-3431-4b27-998f-d63877da65c9": {
     "registration_status": "Full",
@@ -312,7 +291,7 @@
       "venue": "Hamlin Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-08-17T23:34:36.949992+00:00"
+    "updated_at": "2026-08-17T23:56:43.606697+00:00"
   },
   "a40ee0a2-fd54-408d-846f-33365a9c8dba": {
     "registration_status": "Full",
@@ -333,7 +312,7 @@
       "venue": "Welles Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-08-17T23:34:36.948936+00:00"
+    "updated_at": "2026-08-17T23:56:43.606047+00:00"
   },
   "a789cd20-57f3-4893-ab71-e9c0701166c4": {
     "registration_status": "Full",
@@ -354,7 +333,7 @@
       "venue": "Welles Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-08-17T23:34:36.949450+00:00"
+    "updated_at": "2026-08-17T23:56:43.606397+00:00"
   },
   "abcdde45-4eb9-4ae8-9bb4-c5d21796101c": {
     "registration_status": "Full",
@@ -375,7 +354,7 @@
       "venue": "Humboldt Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-08-17T23:34:36.948997+00:00"
+    "updated_at": "2026-08-17T23:56:43.606103+00:00"
   },
   "ac88e4d7-c755-4958-99d4-f8e597123fc9": {
     "registration_status": "Full",
@@ -396,7 +375,7 @@
       "venue": "Smith Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-08-17T23:34:36.949506+00:00"
+    "updated_at": "2026-08-17T23:56:43.606428+00:00"
   },
   "b6aa0864-414d-4dd9-83cf-1aa3a3596711": {
     "registration_status": "Open",
@@ -417,7 +396,7 @@
       "venue": "Welles Park"
     },
     "spots_available": 8,
-    "updated_at": "2026-08-17T23:34:36.950266+00:00"
+    "updated_at": "2026-08-17T23:56:43.606856+00:00"
   },
   "b9be0408-7338-4177-9a0d-3832143b2d47": {
     "registration_status": "Full",
@@ -438,7 +417,7 @@
       "venue": "Welles Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-08-17T23:34:36.949170+00:00"
+    "updated_at": "2026-08-17T23:56:43.606206+00:00"
   },
   "c3da24b2-9a8b-4e47-9f04-378ff408ac68": {
     "registration_status": "Full",
@@ -459,7 +438,7 @@
       "venue": "Smith Park"
     },
     "spots_available": -1,
-    "updated_at": "2026-08-17T23:34:36.949881+00:00"
+    "updated_at": "2026-08-17T23:56:43.606620+00:00"
   },
   "c5ff246d-d436-4f7c-b0c5-b3f5aab1990b": {
     "registration_status": "Full",
@@ -480,7 +459,28 @@
       "venue": "Welles Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-08-17T23:34:36.949679+00:00"
+    "updated_at": "2026-08-17T23:56:43.606527+00:00"
+  },
+  "c8a8742a-3e95-4ff3-bbb8-dd4b1b786962": {
+    "registration_status": "Full",
+    "snapshot": {
+      "days_of_week": [
+        "Monday"
+      ],
+      "end_dt": "2026-09-07 19:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/c8a8742a-3e95-4ff3-bbb8-dd4b1b786962",
+      "price": "$48.0",
+      "program_id": "c8a8742a-3e95-4ff3-bbb8-dd4b1b786962",
+      "program_type": "Adult",
+      "registration_status": "Full",
+      "skill_level": "All",
+      "spots_available": 0,
+      "start_dt": "2026-08-24 18:00:00-05:00",
+      "title": "Adult Cardio Tennis at Humboldt Park",
+      "venue": "Humboldt Park"
+    },
+    "spots_available": 0,
+    "updated_at": "2026-08-17T23:56:43.606334+00:00"
   },
   "d7b04db7-b073-4778-a903-0c1422cc1fcd": {
     "registration_status": "Open",
@@ -501,7 +501,7 @@
       "venue": "Welles Park"
     },
     "spots_available": 6,
-    "updated_at": "2026-08-17T23:34:36.950046+00:00"
+    "updated_at": "2026-08-17T23:56:43.606730+00:00"
   },
   "ddb4459f-5dd0-4908-be4b-9c71b456ef88": {
     "registration_status": "Open",
@@ -522,7 +522,7 @@
       "venue": "Humboldt Park"
     },
     "spots_available": 4,
-    "updated_at": "2026-08-17T23:34:36.950321+00:00"
+    "updated_at": "2026-08-17T23:56:43.606890+00:00"
   },
   "e077cc47-e479-4ef2-857e-ca97f06d7352": {
     "registration_status": "Open",
@@ -543,7 +543,7 @@
       "venue": "Welles Park"
     },
     "spots_available": 8,
-    "updated_at": "2026-08-17T23:34:36.950101+00:00"
+    "updated_at": "2026-08-17T23:56:43.606761+00:00"
   },
   "f2d395a1-2173-432c-af39-efe21eff5c1d": {
     "registration_status": "Full",
@@ -564,6 +564,6 @@
       "venue": "Humboldt Park"
     },
     "spots_available": -1,
-    "updated_at": "2026-08-17T23:34:36.949283+00:00"
+    "updated_at": "2026-08-17T23:56:43.606269+00:00"
   }
 }
