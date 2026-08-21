@@ -90,10 +90,10 @@ Then set your `.env` values (use a Gmail App Password):
 
 - `SMTP_HOST=smtp.gmail.com`
 - `SMTP_PORT=587`
-- `SMTP_USERNAME=pickingviolet@gmail.com`
+- `SMTP_USERNAME=your_email@gmail.com`
 - `SMTP_PASSWORD=...`
-- `EMAIL_FROM=pickingviolet@gmail.com`
-- `EMAIL_TO=pickingviolet@gmail.com`
+- `EMAIL_FROM=your_email@gmail.com`
+- `EMAIL_TO=your_email@gmail.com`
 
 3. Run once:
 
