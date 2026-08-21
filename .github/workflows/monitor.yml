@@ -2,7 +2,7 @@ name: USTA Tennis Monitor
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
     inputs:
       send_all_now:
@@ -10,6 +10,15 @@ on:
         required: false
         default: false
         type: boolean
+      use_playwright:
+        description: "Install Playwright browser and allow the browser fallback (slow, use only for troubleshooting)"
+        required: false
+        default: false
+        type: boolean
+
+concurrency:
+  group: tennis-monitor
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -26,11 +35,20 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: "pip"
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install requests python-dateutil
+
+      # Playwright + its browser download/apt install is the biggest time cost in this
+      # workflow and is only needed as a last-resort fallback, so it is skipped by
+      # default to stay well within the free Actions minutes quota.
+      - name: Install Playwright (only if requested)
+        if: ${{ inputs.use_playwright == true }}
+        run: |
+          pip install playwright==1.55.0
           playwright install --with-deps chromium
 
       - name: Run monitor
@@ -42,7 +60,7 @@ jobs:
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
           CHECK_TIMEOUT_SECONDS: "90"
-          USE_PLAYWRIGHT_FALLBACK: "1"
+          USE_PLAYWRIGHT_FALLBACK: ${{ (inputs.use_playwright == true) && '1' || '0' }}
         run: |
           if [[ "${{ inputs.send_all_now }}" == "true" ]]; then
             python monitor.py --send-all-now

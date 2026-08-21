@@ -4,4 +4,5 @@ __pycache__/
 .env
 state/*
 !state/seen_programs.json
+!state/ticket_seen_state.json
 playwright-report/
