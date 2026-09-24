@@ -18,7 +18,7 @@
       "venue": "Hamlin Park"
     },
     "spots_available": 5,
-    "updated_at": "2026-09-23T23:52:51.063125+00:00"
+    "updated_at": "2026-09-24T03:42:52.820157+00:00"
   },
   "143ad574-9d1e-49af-9b36-faa46f7bfdae": {
     "registration_status": "Full",
@@ -39,7 +39,7 @@
       "venue": "Humboldt Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-09-23T23:52:51.062885+00:00"
+    "updated_at": "2026-09-24T03:42:52.819913+00:00"
   },
   "1e1cedce-dbce-400b-a4e9-ac1c84200dc7": {
     "registration_status": "Full",
@@ -60,7 +60,7 @@
       "venue": "Welles Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-09-23T23:52:51.062704+00:00"
+    "updated_at": "2026-09-24T03:42:52.819731+00:00"
   },
   "28f5bbac-2fde-4efd-8661-6b0399cc54d8": {
     "registration_status": "Full",
@@ -81,7 +81,7 @@
       "venue": "Welles Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-09-23T23:52:51.062816+00:00"
+    "updated_at": "2026-09-24T03:42:52.819842+00:00"
   },
   "2e624c0a-d614-4615-ad05-eea8a760d8cf": {
     "registration_status": "Full",
@@ -102,7 +102,7 @@
       "venue": "Humboldt Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-09-23T23:52:51.062743+00:00"
+    "updated_at": "2026-09-24T03:42:52.819769+00:00"
   },
   "4f0128da-3600-40c9-a7ec-deeb8e682645": {
     "registration_status": "Full",
@@ -123,7 +123,7 @@
       "venue": "Welles Park"
     },
     "spots_available": -1,
-    "updated_at": "2026-09-23T23:52:51.062660+00:00"
+    "updated_at": "2026-09-24T03:42:52.819688+00:00"
   },
   "584bb63c-03e4-4f59-9541-4824aeee8af9": {
     "registration_status": "Full",
@@ -144,7 +144,7 @@
       "venue": "Humboldt Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-09-23T23:52:51.062780+00:00"
+    "updated_at": "2026-09-24T03:42:52.819806+00:00"
   },
   "5bf71357-ee89-4a95-a9e2-2f5c84f24be2": {
     "registration_status": "Full",
@@ -165,7 +165,7 @@
       "venue": "Welles Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-09-23T23:52:51.062851+00:00"
+    "updated_at": "2026-09-24T03:42:52.819878+00:00"
   },
   "62fa3f6d-55d9-4e78-b191-50f5cc730ea2": {
     "registration_status": "Full",
@@ -186,7 +186,7 @@
       "venue": "Welles Park"
     },
     "spots_available": -1,
-    "updated_at": "2026-09-23T23:52:51.063022+00:00"
+    "updated_at": "2026-09-24T03:42:52.820052+00:00"
   },
   "6bbb3630-8029-4ac6-a292-c6ad0d8d246b": {
     "registration_status": "Open",
@@ -207,7 +207,7 @@
       "venue": "Humboldt Park"
     },
     "spots_available": 6,
-    "updated_at": "2026-09-23T23:52:51.062988+00:00"
+    "updated_at": "2026-09-24T03:42:52.820017+00:00"
   },
   "a5a22f9c-e3cf-4e9b-ac2b-23d60c92a307": {
     "registration_status": "Open",
@@ -228,7 +228,7 @@
       "venue": "Humboldt Park"
     },
     "spots_available": 2,
-    "updated_at": "2026-09-23T23:52:51.062578+00:00"
+    "updated_at": "2026-09-24T03:42:52.819630+00:00"
   },
   "b6aa0864-414d-4dd9-83cf-1aa3a3596711": {
     "registration_status": "Open",
@@ -249,7 +249,7 @@
       "venue": "Welles Park"
     },
     "spots_available": 6,
-    "updated_at": "2026-09-23T23:52:51.063056+00:00"
+    "updated_at": "2026-09-24T03:42:52.820087+00:00"
   },
   "d7b04db7-b073-4778-a903-0c1422cc1fcd": {
     "registration_status": "Open",
@@ -270,7 +270,7 @@
       "venue": "Welles Park"
     },
     "spots_available": 3,
-    "updated_at": "2026-09-23T23:52:51.062920+00:00"
+    "updated_at": "2026-09-24T03:42:52.819948+00:00"
   },
   "ddb4459f-5dd0-4908-be4b-9c71b456ef88": {
     "registration_status": "Open",
@@ -291,7 +291,7 @@
       "venue": "Humboldt Park"
     },
     "spots_available": 1,
-    "updated_at": "2026-09-23T23:52:51.063091+00:00"
+    "updated_at": "2026-09-24T03:42:52.820123+00:00"
   },
   "e077cc47-e479-4ef2-857e-ca97f06d7352": {
     "registration_status": "Open",
@@ -312,6 +312,6 @@
       "venue": "Welles Park"
     },
     "spots_available": 6,
-    "updated_at": "2026-09-23T23:52:51.062954+00:00"
+    "updated_at": "2026-09-24T03:42:52.819982+00:00"
   }
 }
