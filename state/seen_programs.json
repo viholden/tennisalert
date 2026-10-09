@@ -18,7 +18,7 @@
       "venue": "Hamlin Park"
     },
     "spots_available": 2,
-    "updated_at": "2026-10-09T00:33:48.335227+00:00"
+    "updated_at": "2026-10-09T07:11:22.078266+00:00"
   },
   "15c1f53b-1d16-4c80-a70a-90c8944922ce": {
     "registration_status": "Full",
@@ -39,7 +39,7 @@
       "venue": "Welles Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-10-09T00:33:48.334899+00:00"
+    "updated_at": "2026-10-09T07:11:22.078099+00:00"
   },
   "312ec466-bd8e-4579-b858-85c6509d9cc4": {
     "registration_status": "Full",
@@ -60,7 +60,7 @@
       "venue": "Welles Park"
     },
     "spots_available": -1,
-    "updated_at": "2026-10-09T00:33:48.334782+00:00"
+    "updated_at": "2026-10-09T07:11:22.078040+00:00"
   },
   "3394887d-0735-4524-bdd4-ed71add1553b": {
     "registration_status": "Open",
@@ -81,7 +81,7 @@
       "venue": "Humboldt Park"
     },
     "spots_available": 9,
-    "updated_at": "2026-10-09T00:33:48.335016+00:00"
+    "updated_at": "2026-10-09T07:11:22.078160+00:00"
   },
   "396a81d2-96bc-45b9-a593-e50e628821a3": {
     "registration_status": "Full",
@@ -102,7 +102,7 @@
       "venue": "Humboldt Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-10-09T00:33:48.334979+00:00"
+    "updated_at": "2026-10-09T07:11:22.078143+00:00"
   },
   "62fa3f6d-55d9-4e78-b191-50f5cc730ea2": {
     "registration_status": "Full",
@@ -123,7 +123,7 @@
       "venue": "Welles Park"
     },
     "spots_available": -1,
-    "updated_at": "2026-10-09T00:33:48.335120+00:00"
+    "updated_at": "2026-10-09T07:11:22.078213+00:00"
   },
   "67c538bb-c1be-49c8-b8c9-c055f1ef1b35": {
     "registration_status": "Full",
@@ -144,7 +144,7 @@
       "venue": "Humboldt Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-10-09T00:33:48.334862+00:00"
+    "updated_at": "2026-10-09T07:11:22.078080+00:00"
   },
   "7234c7b8-03c6-4a5e-94f5-995e10a2299e": {
     "registration_status": "Full",
@@ -165,7 +165,7 @@
       "venue": "Welles Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-10-09T00:33:48.334935+00:00"
+    "updated_at": "2026-10-09T07:11:22.078117+00:00"
   },
   "80961199-694c-4362-b35b-87382fdc4b7c": {
     "registration_status": "Full",
@@ -186,7 +186,7 @@
       "venue": "Welles Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-10-09T00:33:48.334823+00:00"
+    "updated_at": "2026-10-09T07:11:22.078062+00:00"
   },
   "9f5c4d57-4574-4ba7-b505-0902e6aac5b5": {
     "registration_status": "Full",
@@ -207,7 +207,7 @@
       "venue": "Humboldt Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-10-09T00:33:48.334724+00:00"
+    "updated_at": "2026-10-09T07:11:22.078002+00:00"
   },
   "b6aa0864-414d-4dd9-83cf-1aa3a3596711": {
     "registration_status": "Open",
@@ -228,7 +228,7 @@
       "venue": "Welles Park"
     },
     "spots_available": 2,
-    "updated_at": "2026-10-09T00:33:48.335154+00:00"
+    "updated_at": "2026-10-09T07:11:22.078230+00:00"
   },
   "d7b04db7-b073-4778-a903-0c1422cc1fcd": {
     "registration_status": "Full",
@@ -249,7 +249,7 @@
       "venue": "Welles Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-10-09T00:33:48.335050+00:00"
+    "updated_at": "2026-10-09T07:11:22.078178+00:00"
   },
   "ddb4459f-5dd0-4908-be4b-9c71b456ef88": {
     "registration_status": "Full",
@@ -270,7 +270,7 @@
       "venue": "Humboldt Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-10-09T00:33:48.335189+00:00"
+    "updated_at": "2026-10-09T07:11:22.078247+00:00"
   },
   "e077cc47-e479-4ef2-857e-ca97f06d7352": {
     "registration_status": "Full",
@@ -291,6 +291,6 @@
       "venue": "Welles Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-10-09T00:33:48.335085+00:00"
+    "updated_at": "2026-10-09T07:11:22.078195+00:00"
   }
 }
