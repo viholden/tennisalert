@@ -18,7 +18,7 @@
       "venue": "Welles Park"
     },
     "spots_available": -1,
-    "updated_at": "2026-10-13T21:25:23.102815+00:00"
+    "updated_at": "2026-10-14T00:29:39.165767+00:00"
   },
   "0d88c416-2872-4c86-8e00-2672a3e07b6d": {
     "registration_status": "Open",
@@ -39,7 +39,7 @@
       "venue": "Hamlin Park"
     },
     "spots_available": 1,
-    "updated_at": "2026-10-13T21:25:23.103110+00:00"
+    "updated_at": "2026-10-14T00:29:39.166176+00:00"
   },
   "0f467edf-aff6-472d-8d72-b0adfbebfcfa": {
     "registration_status": "Full",
@@ -60,28 +60,7 @@
       "venue": "Welles Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-10-13T21:25:23.102864+00:00"
-  },
-  "15c1f53b-1d16-4c80-a70a-90c8944922ce": {
-    "registration_status": "Full",
-    "snapshot": {
-      "days_of_week": [
-        "Tuesday"
-      ],
-      "end_dt": "2026-10-20 19:00:00-05:00",
-      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/15c1f53b-1d16-4c80-a70a-90c8944922ce",
-      "price": "$32.0",
-      "program_id": "15c1f53b-1d16-4c80-a70a-90c8944922ce",
-      "program_type": "Adult",
-      "registration_status": "Full",
-      "skill_level": "All",
-      "spots_available": 0,
-      "start_dt": "2026-10-13 18:00:00-05:00",
-      "title": "Adult Cardio Tennis at Welles Park",
-      "venue": "Welles Park"
-    },
-    "spots_available": 0,
-    "updated_at": "2026-10-13T21:25:23.102638+00:00"
+    "updated_at": "2026-10-14T00:29:39.165809+00:00"
   },
   "3394887d-0735-4524-bdd4-ed71add1553b": {
     "registration_status": "Open",
@@ -102,7 +81,7 @@
       "venue": "Humboldt Park"
     },
     "spots_available": 6,
-    "updated_at": "2026-10-13T21:25:23.102900+00:00"
+    "updated_at": "2026-10-14T00:29:39.165965+00:00"
   },
   "396a81d2-96bc-45b9-a593-e50e628821a3": {
     "registration_status": "Full",
@@ -123,7 +102,7 @@
       "venue": "Humboldt Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-10-13T21:25:23.102718+00:00"
+    "updated_at": "2026-10-14T00:29:39.165636+00:00"
   },
   "41d90493-d443-4c65-b33d-d72833352fcd": {
     "registration_status": "Full",
@@ -144,7 +123,7 @@
       "venue": "Humboldt Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-10-13T21:25:23.102756+00:00"
+    "updated_at": "2026-10-14T00:29:39.165694+00:00"
   },
   "62fa3f6d-55d9-4e78-b191-50f5cc730ea2": {
     "registration_status": "Full",
@@ -165,49 +144,70 @@
       "venue": "Welles Park"
     },
     "spots_available": -1,
-    "updated_at": "2026-10-13T21:25:23.103003+00:00"
+    "updated_at": "2026-10-14T00:29:39.166067+00:00"
   },
-  "67c538bb-c1be-49c8-b8c9-c055f1ef1b35": {
+  "762f7e3d-0fc6-4f71-b7fc-d5c608b722ab": {
     "registration_status": "Full",
     "snapshot": {
       "days_of_week": [
         "Tuesday"
       ],
       "end_dt": "2026-10-20 19:00:00-05:00",
-      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/67c538bb-c1be-49c8-b8c9-c055f1ef1b35",
-      "price": "$32.0",
-      "program_id": "67c538bb-c1be-49c8-b8c9-c055f1ef1b35",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/762f7e3d-0fc6-4f71-b7fc-d5c608b722ab",
+      "price": "$16.0",
+      "program_id": "762f7e3d-0fc6-4f71-b7fc-d5c608b722ab",
       "program_type": "Adult",
       "registration_status": "Full",
       "skill_level": "All",
       "spots_available": 0,
-      "start_dt": "2026-10-13 18:00:00-05:00",
+      "start_dt": "2026-10-20 18:00:00-05:00",
+      "title": "Adult Cardio Tennis at Welles Park",
+      "venue": "Welles Park"
+    },
+    "spots_available": 0,
+    "updated_at": "2026-10-14T00:29:39.165883+00:00"
+  },
+  "9bb7a05a-a3a0-48ee-8881-f25ca9684580": {
+    "registration_status": "Full",
+    "snapshot": {
+      "days_of_week": [
+        "Tuesday"
+      ],
+      "end_dt": "2026-10-20 19:00:00-05:00",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/9bb7a05a-a3a0-48ee-8881-f25ca9684580",
+      "price": "$16.0",
+      "program_id": "9bb7a05a-a3a0-48ee-8881-f25ca9684580",
+      "program_type": "Adult",
+      "registration_status": "Full",
+      "skill_level": "All",
+      "spots_available": 0,
+      "start_dt": "2026-10-20 18:00:00-05:00",
       "title": "Adult Cardio Tennis at Humboldt Park",
       "venue": "Humboldt Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-10-13T21:25:23.102580+00:00"
+    "updated_at": "2026-10-14T00:29:39.165847+00:00"
   },
-  "7234c7b8-03c6-4a5e-94f5-995e10a2299e": {
+  "9c7f50fa-e155-4401-a829-99e4cf34117f": {
     "registration_status": "Full",
     "snapshot": {
       "days_of_week": [
         "Tuesday"
       ],
       "end_dt": "2026-10-20 20:00:00-05:00",
-      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/7234c7b8-03c6-4a5e-94f5-995e10a2299e",
-      "price": "$32.0",
-      "program_id": "7234c7b8-03c6-4a5e-94f5-995e10a2299e",
+      "link": "https://playtennis.usta.com/USTAChicago/Coaching/Session/9c7f50fa-e155-4401-a829-99e4cf34117f",
+      "price": "$16.0",
+      "program_id": "9c7f50fa-e155-4401-a829-99e4cf34117f",
       "program_type": "Adult",
       "registration_status": "Full",
       "skill_level": "All",
       "spots_available": 0,
-      "start_dt": "2026-10-13 19:00:00-05:00",
+      "start_dt": "2026-10-20 19:00:00-05:00",
       "title": "Adult Cardio Tennis at Welles Park",
       "venue": "Welles Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-10-13T21:25:23.102680+00:00"
+    "updated_at": "2026-10-14T00:29:39.165924+00:00"
   },
   "b6aa0864-414d-4dd9-83cf-1aa3a3596711": {
     "registration_status": "Open",
@@ -228,7 +228,7 @@
       "venue": "Welles Park"
     },
     "spots_available": 1,
-    "updated_at": "2026-10-13T21:25:23.103038+00:00"
+    "updated_at": "2026-10-14T00:29:39.166101+00:00"
   },
   "d7b04db7-b073-4778-a903-0c1422cc1fcd": {
     "registration_status": "Full",
@@ -249,7 +249,7 @@
       "venue": "Welles Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-10-13T21:25:23.102934+00:00"
+    "updated_at": "2026-10-14T00:29:39.165999+00:00"
   },
   "ddb4459f-5dd0-4908-be4b-9c71b456ef88": {
     "registration_status": "Full",
@@ -270,7 +270,7 @@
       "venue": "Humboldt Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-10-13T21:25:23.103072+00:00"
+    "updated_at": "2026-10-14T00:29:39.166137+00:00"
   },
   "e077cc47-e479-4ef2-857e-ca97f06d7352": {
     "registration_status": "Full",
@@ -291,6 +291,6 @@
       "venue": "Welles Park"
     },
     "spots_available": 0,
-    "updated_at": "2026-10-13T21:25:23.102969+00:00"
+    "updated_at": "2026-10-14T00:29:39.166033+00:00"
   }
 }
