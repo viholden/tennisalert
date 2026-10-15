@@ -5,4 +5,5 @@ __pycache__/
 state/*
 !state/seen_programs.json
 !state/ticket_seen_state.json
+!state/vetstoria_seen_state.json
 playwright-report/
