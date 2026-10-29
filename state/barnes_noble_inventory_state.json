@@ -1,0 +1,81 @@
+{
+  "checked_at": "2026-10-29T04:19:21.410062+00:00",
+  "online_available": false,
+  "product_url": "https://www.barnesandnoble.com/w/dragon-blind-box-peeker-charms-sonix/1150479440",
+  "stores": {
+    "Del Amo Fashion Center": {
+      "address": "Torrance, CA 90503",
+      "in_stock": false,
+      "pickup_available": false
+    },
+    "Diversey Parkway": {
+      "address": "Chicago, IL 60614",
+      "in_stock": false,
+      "pickup_available": false
+    },
+    "Hyde Park": {
+      "address": "Chicago, IL 60615",
+      "in_stock": true,
+      "pickup_available": true
+    },
+    "Long Beach": {
+      "address": "Long Beach, CA 90803",
+      "in_stock": false,
+      "pickup_available": false
+    },
+    "Long Beach Towne Center": {
+      "address": "Long Beach, CA 90808",
+      "in_stock": false,
+      "pickup_available": false
+    },
+    "Manhattan Beach": {
+      "address": "Manhattan Beach, CA 90266",
+      "in_stock": false,
+      "pickup_available": false
+    },
+    "Marina del Rey": {
+      "address": "Marina del Rey, CA 90292",
+      "in_stock": false,
+      "pickup_available": false
+    },
+    "Oak Park": {
+      "address": "Oak Park, IL 60301",
+      "in_stock": true,
+      "pickup_available": true
+    },
+    "Santa Monica": {
+      "address": "Santa Monica, CA 90401",
+      "in_stock": false,
+      "pickup_available": false
+    },
+    "State Street": {
+      "address": "Chicago, IL 60601",
+      "in_stock": false,
+      "pickup_available": false
+    },
+    "Village Crossing": {
+      "address": "Skokie, IL 60077",
+      "in_stock": false,
+      "pickup_available": false
+    },
+    "Wicker Park": {
+      "address": "Chicago, IL 60647",
+      "in_stock": false,
+      "pickup_available": false
+    }
+  },
+  "target_stores": {
+    "Del Amo Fashion Center": "Torrance, CA 90503",
+    "Diversey Parkway": "Chicago, IL 60614",
+    "Hyde Park": "Chicago, IL 60615",
+    "Long Beach": "Long Beach, CA 90803",
+    "Long Beach Towne Center": "Long Beach, CA 90808",
+    "Manhattan Beach": "Manhattan Beach, CA 90266",
+    "Marina del Rey": "Marina del Rey, CA 90292",
+    "Oak Park": "Oak Park, IL 60301",
+    "Santa Monica": "Santa Monica, CA 90401",
+    "State Street": "Chicago, IL 60601",
+    "Village Crossing": "Skokie, IL 60077",
+    "Wicker Park": "Chicago, IL 60647"
+  }
+}

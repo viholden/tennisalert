@@ -45,17 +45,20 @@ jobs:
         run: |
           if [[ "${{ inputs.send_all_now }}" == "true" ]]; then
             python vetstoria_monitor.py --send-all-now
+            python barnes_noble_monitor.py --send-all-now
           else
             python vetstoria_monitor.py
+            python barnes_noble_monitor.py
           fi
 
       - name: Commit state if changed
         run: |
-          if [[ -n "$(git status --porcelain state/vetstoria_seen_state.json 2>/dev/null)" ]]; then
+          if [[ -n "$(git status --porcelain state/vetstoria_seen_state.json state/barnes_noble_inventory_state.json 2>/dev/null)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add state/vetstoria_seen_state.json
-            git commit -m "chore: update Vetstoria monitor state"
+            git add state/barnes_noble_inventory_state.json
+            git commit -m "chore: update appointment and inventory monitor state"
             git push
           else
             echo "No state changes"
