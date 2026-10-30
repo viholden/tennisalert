@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-30T06:20:26.900666+00:00",
+  "checked_at": "2026-10-30T13:15:24.797483+00:00",
   "online_available": false,
   "product_url": "https://www.barnesandnoble.com/w/dragon-blind-box-peeker-charms-sonix/1150479440",
   "stores": {
@@ -25,8 +25,8 @@
     },
     "Long Beach Towne Center": {
       "address": "Long Beach, CA 90808",
-      "in_stock": false,
-      "pickup_available": false
+      "in_stock": true,
+      "pickup_available": true
     },
     "Manhattan Beach": {
       "address": "Manhattan Beach, CA 90266",
@@ -55,13 +55,13 @@
     },
     "Village Crossing": {
       "address": "Skokie, IL 60077",
-      "in_stock": false,
-      "pickup_available": false
+      "in_stock": true,
+      "pickup_available": true
     },
     "Wicker Park": {
       "address": "Chicago, IL 60647",
-      "in_stock": false,
-      "pickup_available": false
+      "in_stock": true,
+      "pickup_available": true
     }
   },
   "target_stores": {
