@@ -1,11 +1,13 @@
 {
   "booking_url": "https://us.vetstoria.com/booking/69efcd14cfbca/?r=6&step=2",
-  "checked_at": "2026-11-04T01:44:42.460938+00:00",
+  "checked_at": "2026-11-04T08:08:26.593525+00:00",
   "criteria": {
     "appointment_type": "Vaccinations",
     "client": "returning",
     "pets": 1,
     "species": "cat"
   },
-  "slots": []
+  "slots": [
+    "2026-12-01|09:15:00|No preference"
+  ]
 }
