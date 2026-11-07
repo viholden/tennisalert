@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-07T09:14:15.459364+00:00",
+  "checked_at": "2026-11-07T15:44:50.289438+00:00",
   "online_available": false,
   "product_url": "https://www.barnesandnoble.com/w/dragon-blind-box-peeker-charms-sonix/1150479440",
   "stores": {
@@ -55,13 +55,13 @@
     },
     "Village Crossing": {
       "address": "Skokie, IL 60077",
-      "in_stock": false,
-      "pickup_available": false
+      "in_stock": true,
+      "pickup_available": true
     },
     "Wicker Park": {
       "address": "Chicago, IL 60647",
-      "in_stock": false,
-      "pickup_available": false
+      "in_stock": true,
+      "pickup_available": true
     }
   },
   "target_stores": {
